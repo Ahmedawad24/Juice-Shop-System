@@ -1,0 +1,6 @@
+D:\MSA\Year 2\Sem 3\System Analysis\Project\BookShopManagement\BookShopManagement\obj\Debug\BookShopMangement.csproj.AssemblyReference.cache
+D:\MSA\Year 2\Sem 3\System Analysis\Project\BookShopManagement\BookShopManagement\obj\Debug\BookShopMangement.FORMS.DataBase.resources
+D:\MSA\Year 2\Sem 3\System Analysis\Project\BookShopManagement\BookShopManagement\obj\Debug\BookShopMangement.Login.resources
+D:\MSA\Year 2\Sem 3\System Analysis\Project\BookShopManagement\BookShopManagement\obj\Debug\BookShopMangement.FORMS.storage.resources
+D:\MSA\Year 2\Sem 3\System Analysis\Project\BookShopManagement\BookShopManagement\obj\Debug\BookShopMangement.FORMS.view.resources
+D:\MSA\Year 2\Sem 3\System Analysis\Project\BookShopManagement\BookShopManagement\obj\Debug\BookShopMangement.csproj.GenerateResource.cache

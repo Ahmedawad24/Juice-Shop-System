@@ -1,0 +1,64 @@
+C:\Users\User\Desktop\BookShopMangement\BookShopMangement\bin\Debug\BookShopMangement.exe.config
+C:\Users\User\Desktop\BookShopMangement\BookShopMangement\bin\Debug\BookShopMangement.exe
+C:\Users\User\Desktop\BookShopMangement\BookShopMangement\bin\Debug\BookShopMangement.pdb
+C:\Users\User\Desktop\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.csprojAssemblyReference.cache
+C:\Users\User\Desktop\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.Properties.Resources.resources
+C:\Users\User\Desktop\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.csproj.GenerateResource.cache
+C:\Users\User\Desktop\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.exe
+C:\Users\User\Desktop\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.pdb
+C:\Users\User\Desktop\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.Login.resources
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\BookShopMangement.exe.config
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\BookShopMangement.exe
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\BookShopMangement.pdb
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.Login.resources
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.Properties.Resources.resources
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.exe
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.pdb
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\MySql.Data.dll
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\MySql.Data.EntityFramework.dll
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\MySql.Web.dll
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\Google.Protobuf.dll
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\MySql.Data.xml
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\MySql.Data.EntityFramework.xml
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\MySql.Web.xml
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.exe.config
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.csproj.CopyComplete
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.FORMS.DataBase.resources
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.FORMS.storage.resources
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.FORMS.view.resources
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\Tulpep.NotificationWindow.dll
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\Bunifu.Core.dll
+\\Mac\Home\Desktop\System\BookShopMangement\BookShopMangement\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\bin\Debug\BookShopMangement.exe.config
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\bin\Debug\BookShopMangement.exe
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\bin\Debug\BookShopMangement.pdb
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\bin\Debug\Bunifu.Core.dll
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\bin\Debug\Google.Protobuf.dll
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\bin\Debug\MySql.Data.xml
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\bin\Debug\MySql.Web.xml
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.csprojAssemblyReference.cache
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.exe.config
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.FORMS.DataBase.resources
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.Login.resources
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.FORMS.storage.resources
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.FORMS.view.resources
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.Properties.Resources.resources
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.csproj.GenerateResource.cache
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.csproj.CoreCompileInputs.cache
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.csproj.CopyComplete
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.exe
+C:\Users\A7med\Desktop\MSA\3rd Term\System Analysis and design\System\System\BookShopMangement\BookShopMangement\obj\Debug\BookShopMangement.pdb
